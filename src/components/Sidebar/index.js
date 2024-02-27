@@ -1,7 +1,7 @@
 import { Link, NavLink } from 'react-router-dom';
 import './index.scss';
 import Logo from '../../assets/images/ts.png';
-import Resume from '/Users/tshen/my-react-portfolio/src/Taylor Shen Resume.pdf';
+import Resume from '/Users/tshen/code/my-react-portfolio/src/Taylor Shen Resume.pdf';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faEnvelope, faFilePdf, faFolder, faHome, faUser, } from '@fortawesome/free-solid-svg-icons';
 import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
